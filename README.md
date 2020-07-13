@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 #### work
 - Currently working as an intern at Iwaz.(2020.07.13 - 2020.08.28)  
-  -task: Bigdata / NLP / AI
+  -task: AI / Bigdata / NLP
 
 <div align=center>
 
