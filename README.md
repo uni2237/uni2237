@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+I am writing on my blog about what I study, so I appreciate it if you could visit.
 [![git Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://uni2237.github.io/)](https://uni2237.github.io/) 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunhui.cho98@gmail.com)](mailto:yunhui.cho98@gmail.com)
-</div>
