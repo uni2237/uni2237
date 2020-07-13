@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 🌱 Name: Yunhui Cho
 - I major in Computer Science and Engineering 
 - I'm interested learning ML/DL  
-- I am writing on my blog about what I study, so I appreciate it if you could visit. >> [![git Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://uni2237.github.io/)](https://uni2237.github.io/) 
+- I am writing on my blog about what I study, so I appreciate it if you could visit.    [![git Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://uni2237.github.io/)](https://uni2237.github.io/) 
 
 #### work
 - Currently working as an intern at Iwaz.(2020.07.13 - 2020.08.28)
