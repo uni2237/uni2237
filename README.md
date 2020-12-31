@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 - Major in Computer Science and Engineering 
 - I'm interested learning ML/DL  
 - I am writing on my blog about what I study, so I appreciate it if you could visit.   ->[![git Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://uni2237.github.io/)](https://uni2237.github.io/) 
-
+---  
 #### work
 - Currently working as an **intern** at **Korea Research Institute of Bioscience & Biotechnology(KRIBB)**.(2020.12.21 - 2021.02.23)    
  - task:     
  1. Development of regression analysis service using scikit-learn   
  2. Developing the Analysis Web Services Main page   
  3. Transfer Registed Genome&Life Resource Data Refining    
-
+---  
 - Worked as an **intern** at **Iwaz**.(2020.07.03 - 2020.08.28)    
   - task: AI / Bigdata / NLP  
 
