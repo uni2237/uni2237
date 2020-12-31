@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 #### work
 - Currently working as an intern at Korea Research Institute of Bioscience & Biotechnology(KRIBB).(2020.12.21 - 2021.02.23)    
-  - task: Development of regression analysis service using scikit-learn   
-              Developing the Analysis Web Services Main page   
-              Transfer Registed Genome&Life Resource Data Refining    
+  - task:   
+ 1. Development of regression analysis service using scikit-learn   
+ 2. Developing the Analysis Web Services Main page   
+ 3. Transfer Registed Genome&Life Resource Data Refining    
 
 - Currently working as an intern at Iwaz.(2020.07.03 - 2020.08.28)    
   - task: AI / Bigdata / NLP  
