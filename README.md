@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - I am writing on my blog about what I study, so I appreciate it if you could visit.   ->[![git Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://uni2237.github.io/)](https://uni2237.github.io/) 
 ---  
 ### work
-#### 2. Currently working as an ___intern___ at __Korea Research Institute of Bioscience & Biotechnology(KRIBB)__.(2020.12.21 - 2021.02.23)    
+#### 2. Currently working as an <u>intern</u> at __Korea Research Institute of Bioscience & Biotechnology(KRIBB)__.(2020.12.21 - 2021.02.23)    
 [task]
 - Development of **regression analysis service** using **scikit-learn**   
 - Developing the **Analysis Web Services** Main page using **Django**
