@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Name: Yunhui Cho
 - Major in Computer Science and Engineering 
-- I'm interested learning ML/DL  
+- I'm interested learning **ML/DL** 
 - I am writing on **my blog** about what I study, so I appreciate it if you could visit.
     + for School work : **[uni2237.github.io](https://uni2237.github.io/)** 💬
     + for Personal study : **[uni2237.tistory.com](https://uni2237.tistory.com/)** 💬
