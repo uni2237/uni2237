@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - Major in Computer Science and Engineering 
 - I'm interested learning ML/DL  
 - I am writing on my blog about what I study, so I appreciate it if you could visit.
-    + for School work : [uni2237.github.io](https://uni2237.github.io/) 💬
-    + for Personal study : [uni2237.tistory.com](https://uni2237.tistory.com/) 💬
+    + for School work : **[uni2237.github.io](https://uni2237.github.io/)** 💬
+    + for Personal study : **[uni2237.tistory.com](https://uni2237.tistory.com/)** 💬
 ---  
 ### ⚡ work
 **2.** Currently working as an **intern** at **Korea Research Institute of Bioscience & Biotechnology(KRIBB)**.(2020.12.21 - 2021.02.23)    
