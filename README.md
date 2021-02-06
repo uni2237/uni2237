@@ -41,7 +41,5 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9bddbc3957c1f4923ebafadfb49facc70a187ad6b519826e062c10d77318fe46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6769746e616d752673686f775f69636f6e733d74727565"><img align="right" alt="Top Langs" src="https://camo.githubusercontent.com/9bddbc3957c1f4923ebafadfb49facc70a187ad6b519826e062c10d77318fe46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6769746e616d752673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&amp;show_icons=true" style="max-width:100%;"></a></p>
-<p><a href="https://solved.ac/ymsy1341" rel="nofollow"><img src="https://camo.githubusercontent.com/1b4bfdff744e8640c193cd68979c26038abf2fb794adc061a9b921be34da999f/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f67656e65726174655f62616467653f626f6a3d736b61676831373530" alt="solved.ac tier" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=skagh1750" style="max-width:100%;"></a></p>
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->
