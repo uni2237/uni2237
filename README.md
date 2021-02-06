@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+---  
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymsy1341)](https://solved.ac/ymsy1341)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uni2237&layout=compact)](https://github.com/uni2237/github-readme-stats)
