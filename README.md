@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymsy1341)](https://solved.ac/ymsy1341)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uni2237&layout=compact)](https://github.com/uni2237/github-readme-stats)
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->
