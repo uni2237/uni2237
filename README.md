@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 ---  
 
-기존 : [![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymsy1341)](https://solved.ac/ymsy1341)
-새 계정 :  [![Solved.ac
+new account :  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uni2237)](https://solved.ac/uni2237)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uni2237&layout=compact)](https://github.com/uni2237/github-readme-stats)-->
 
