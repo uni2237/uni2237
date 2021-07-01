@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [task]
 - AI / Bigdata / NLP  
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uni2237)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
