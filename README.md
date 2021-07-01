@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 - AI / Bigdata / NLP  
 
 
-<img src="https://camo.githubusercontent.com/e932f905909e2367317c30c5a1c7e9d28bbee9f769e4e908edff29d58a841c57/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4348303231332673686f775f69636f6e733d74727565" alt="Github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=uni2237&amp;show_icons=true" style="max-width:100%;">
 
 <div align=center>
 
