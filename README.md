@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     + for Personal study : **[uni2237.tistory.com](https://uni2237.tistory.com/)** 💬
 ---  
 ### ⚡ work
-**3.** Worked as an **intern** at **planI**.  
+**🖤 3.** Worked as an **intern** at **planI**.  
 (2021.06.21 - 2021.07.16)    
 🔗 https://www.plani.co.kr/
   
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Developing the **Web Services** Main page using **Django**
 
 ---  
-**2.** Worked as an **intern** at **Korea Research Institute of Bioscience & Biotechnology(KRIBB)**.  
+**🖤 2.** Worked as an **intern** at **Korea Research Institute of Bioscience & Biotechnology(KRIBB)**.  
 (2020.12.21 - 2021.02.23)    
 🔗 https://www.kribb.re.kr/kor/main/main.jsp
   
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - Developing the **Analysis Web Services** Main page using **Django**
 - Transfer Registed Genome&Life Resource **Data Refining**    
 ---  
-**1.** Worked as an **intern** at **Iwaz**.  
+**🖤 1.** Worked as an **intern** at **Iwaz**.  
 (2020.07.03 - 2020.08.28)    
 🔗 http://www.iwaz.co.kr/
   
