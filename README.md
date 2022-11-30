@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 </div>
 
 ## 🌱 Name: Yunhui Cho
-- Major in Computer Science and Engineering 
+- [Master]
+    SKKU - bigdata  
+- [Bachelor]
+    CNU - computer science engineering  
 - I'm interested in learning **ML/DL** 
 - **my blog** about what I study, so I appreciate it if you could visit.
     + for School work : **[uni2237.github.io](https://uni2237.github.io/)** 💬
