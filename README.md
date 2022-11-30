@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     SKKU - bigdata  
 - [Bachelor]
     CNU - computer science engineering  
-- I'm interested in learning **ML/DL** 
+- I'm interested in learning **BIG DATA/ML/DL** 
 - **my blog** about what I study, so I appreciate it if you could visit.
     + for School work : **[uni2237.github.io](https://uni2237.github.io/)** 💬
     + for Personal study : **[uni2237.tistory.com](https://uni2237.tistory.com/)** 💬
