@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [task]
 - AI / Bigdata / NLP  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uni2237&show_icons=true&theme=tokyonight)
+Jacobian![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uni2237&show_icons=true&theme=tokyonight)-->
 
 
 <div align=center>
