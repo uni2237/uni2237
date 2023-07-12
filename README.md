@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [task]
 - AI / Bigdata / NLP  
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uni2237&show_icons=true&theme=tokyonight)
+<!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uni2237&show_icons=true&theme=tokyonight)-->
 
 
 <div align=center>
@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymsy1341)](https://solved.ac/ymsy1341)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uni2237)](https://solved.ac/uni2237)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uni2237&layout=compact)](https://github.com/uni2237/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uni2237&layout=compact)](https://github.com/uni2237/github-readme-stats)
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->
